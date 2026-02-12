@@ -51,10 +51,10 @@ If you wish to use this code in your publication, research, teaching, or other a
   url    = {https://github.com/dominicblanco/dihedral.jl},
   note = {\url{https://github.com/dominicblanco/dihedral.jl},
   year   = {2026},
-  doi = {10.5281/zenodo.10966934}
+  doi = {10.5281/zenodo.18626129}
 }
 ```
-DOI : [10.5281/zenodo.10966934](https://zenodo.org/records/10966934) 
+DOI : [10.5281/zenodo.18626129](https://zenodo.org/records/18626129) 
 
 
 # Contact
